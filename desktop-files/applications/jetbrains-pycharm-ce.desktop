@@ -2,8 +2,8 @@
 Version=1.0
 Type=Application
 Name=PyCharm Community Edition
-Icon=/home/pbassiner/pycharmCE/bin/pycharm.png
-Exec="/home/pbassiner/pycharmCE/bin/pycharm.sh" %f
+Icon=/home/volition/pycharmCE/bin/pycharm.png
+Exec="/home/volition/pycharmCE/bin/pycharm.sh" %f
 Comment=Develop with pleasure!
 Categories=Development;IDE;
 Terminal=false

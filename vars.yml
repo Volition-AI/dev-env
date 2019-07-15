@@ -1,4 +1,4 @@
-username: pbassiner
+username: volition
 home: /home/{{ username }}
 repositories:
  sbt:

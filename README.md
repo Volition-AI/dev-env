@@ -1,15 +1,17 @@
 Development Environment Configuration with Ansible
 ==================================================
 
+[![License:
+MIT](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://raw.githubusercontent.com/volition-ai/dev-env/master/LICENSE)
 [![License: MIT](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://raw.githubusercontent.com/pbassiner/dev-env/master/LICENSE)
 
 # Run it
 ```shell
-wget -qO- https://raw.github.com/pbassiner/dev-env/master/bootstrap.sh | bash
+wget -qO- https://raw.github.com/volition-ai/dev-env/master/bootstrap.sh | bash
 ```
 For testing purposes `bootstrap.sh` allows to define the branch with `-b|--branch <BRANCH>` (default is `master`):
 ```shell
-wget -qO- https://raw.github.com/pbassiner/dev-env/master/bootstrap.sh | bash -s -- -b test-branch
+wget -qO- https://raw.github.com/volition-ai/dev-env/master/bootstrap.sh | bash -s -- -b test-branch
 ```
 
 # Disclaimer
